@@ -1,0 +1,5 @@
+train: C:\Users\jordan\Downloads\道路坑洼数据集\train
+val: C:\Users\jordan\Downloads\道路坑洼数据集\valid
+
+nc: 2
+names: ['pothole','fracture']
